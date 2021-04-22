@@ -1,4 +1,4 @@
-# Simple-WYSIWYG-Editor
+# Mini-Site-Templates
 Here you go my friend, use this for free!
 
 You can use it for free but you cant sell it. 
